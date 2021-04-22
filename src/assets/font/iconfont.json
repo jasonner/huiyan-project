@@ -1,0 +1,30 @@
+{
+  "id": "1932944",
+  "name": "慧言科技",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6007725",
+      "name": "切换",
+      "font_class": "qiehuan",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "2967257",
+      "name": "操作-翻译-full",
+      "font_class": "fanyi-full",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "15686654",
+      "name": "语音",
+      "font_class": "yuyin",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    }
+  ]
+}
